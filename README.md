@@ -1,2 +1,2 @@
 # https://teste-aktion.netlify.app/
-Teste Web Designer
+Projeto Landing Page
